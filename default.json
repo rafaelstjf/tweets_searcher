@@ -1,0 +1,8 @@
+{
+    "output_file": "saida.jsonl",
+    "keywords": ["covid", "corona", "c19"],
+    "symptoms": ["calafrio", "congestão nasal", "coriza", "diarreia", "dor", "febre", "mal estar", "perda de olfato", "perda de paladar", "sonolência", "tosse", "tremor", "enjoo"],
+    "blacklist": "-questão -paranoia -paranóia -vacina -vacinação -paciente -? -Bolsonaro  -ansiedade -kkk -Deus -aglomeração -morreu -morre -morro",
+    "query": "-filter:retweets -filter:images",
+    "language": "pt"
+}
