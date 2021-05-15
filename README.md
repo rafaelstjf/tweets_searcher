@@ -1,6 +1,6 @@
 ## Context 
 
-I created this script to download search for tweets about symptoms in the context of covid. It does a "cartesian product" of the symptoms and keywords, all of that using the Tweepy API. It's a very simple script for personal use, but feel free to adapt it to your case of study and use as you wish.
+I created this script to download search for tweets about symptoms in the covid's context. It does a "cartesian product" of the symptoms and keywords, all of that using the Tweepy API. It's a very simple script for personal use, but feel free to adapt it to your case of study and use as you wish.
 
 ### Requirements
 
